@@ -1,5 +1,3 @@
-
-// html// Fonte: https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html
 import java.io.*;
 import java.net.*;
 
